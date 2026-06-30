@@ -17,7 +17,7 @@ namespace myGITHUB1
             // Try to save snap shot
 
             // Squots 2 
-            // Main branch says Hello World!
+            // Feature branch says Goodbye World!
 
 
             // Squts 3
